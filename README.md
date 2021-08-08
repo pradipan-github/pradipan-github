@@ -1,5 +1,7 @@
-### Hi there 👋
-
+#### Hi! This is Pradipan from Hyderabad, India. My Full Name is Pradipan Pal and an Indian Citizen (by birth). I have a Masters and Bachelors Degree in Computer Science & Engineering from Kolkata, India.
+#### My areas of expertise are Cryptography and Machine Learning. My current Research Focus is on the Security and Privacy Issues in Deep Learing Systems, more from an Implementation Perspective. I love to explore the Maths behind Crypto and ML. 🔭
+#### I am always excited to learn more about Security/Crypto and ML/DL and their interplay. I follow the Tech Space in these areas as my passion.
+#### I strongly believe Crypto Primitives can help us solve the Privacy Problem much prevalent in almost all AI models we use today. Its our Privacy and we need to Protect it.
 <!--
 **pradipan-github/pradipan-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
